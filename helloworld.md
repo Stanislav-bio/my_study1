@@ -1,6 +1,6 @@
 Hello world
 
-git add - add file to lookfor
+git add - add file for tracking
 
 git commit -m '   ' - for comment
 
