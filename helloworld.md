@@ -1,3 +1,5 @@
+# My first file of version control
+
 Hello world
 
 git add - add file for tracking
@@ -13,6 +15,8 @@ git checkout - return to version, enought 4 symbols
 git checkout master - return to latest version
 
 **Bold** - bold text **- both side 
+
+## Lists
 
 * element 1
 * element 2
