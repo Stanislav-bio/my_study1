@@ -9,3 +9,8 @@ git log - versions of the file
 git checkout - return to version, enought 4 symbols
 
 *Italics* - '*' both side
+
+git checkout master - return to latest version
+
+**Bold** - bold text **- both side 
+
