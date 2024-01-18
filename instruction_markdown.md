@@ -20,7 +20,7 @@ git diff - show difference
 
 ~ text - strikethroug text
 
-``````
+``````sh
 text mark - `````` en free line
 ``````
 
