@@ -16,6 +16,14 @@ git checkout master - return to latest version
 
 **Bold** - bold text **- both side 
 
+git diff - show difference 
+
+~ text - strikethroug text
+
+``````
+text mark - `````` en free line
+``````
+
 ## Lists
 
 * element 1
