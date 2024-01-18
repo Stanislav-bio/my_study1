@@ -6,4 +6,5 @@ git commit -m '   ' - for comment
 
 git log - versions of the file
 
-git checkout - return to version
+git checkout - return to version, enought 4 symbols
+
