@@ -8,3 +8,4 @@ git log - versions of the file
 
 git checkout - return to version, enought 4 symbols
 
+*Italics* - '*' both side
