@@ -14,3 +14,6 @@ git checkout master - return to latest version
 
 **Bold** - bold text **- both side 
 
+* element 1
+* element 2
+* element 3
