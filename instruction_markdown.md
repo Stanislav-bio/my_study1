@@ -46,4 +46,6 @@ text [example](http.example.com)
 
 ## Add how to add picts to MD
 
+for insert:
 
+![]() - name/way
