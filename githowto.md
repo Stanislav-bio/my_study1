@@ -7,7 +7,7 @@ git branch
 movement on branches
 
 ```
-git checkout '<name>'
+git checkout '<name_name>'
 ```
 
 created new branch
