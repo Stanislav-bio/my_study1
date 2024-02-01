@@ -43,3 +43,7 @@ text mark - `````` en free line
 ## WEB
 
 text [example](http.example.com)
+
+## Add how to add picts to MD
+
+
