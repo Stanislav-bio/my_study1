@@ -10,3 +10,5 @@ git branch -M main - indicate main branche
 
 git push -u origin main - loading, origin (that's name)
 
+git push - after first step
+
