@@ -12,3 +12,4 @@ git push -u origin main - loading, origin (that's name)
 
 git push - after first step
 
+git pull - load new version (fresh notes)
