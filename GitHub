@@ -14,6 +14,10 @@ git push - after first step
 
 git pull - load new version (fresh notes)
 
+git commit -am (-af) '' - w/0 new files, f - text from file
+
+ git add . - + new files
+
 ## pull request 
 
 1. 'fork' button- for copy of reposit on my accaunt
